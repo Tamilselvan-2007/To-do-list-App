@@ -102,5 +102,5 @@ Flutter Developer
 
 ---
 
-📜 10. License
+## 📜 10. License
 This project is open-source and created for learning and educational purposes.
